@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+} 
+header {
+Background-color: hsl(120, 93%, 84%);
+Color: #000000;
+margin: 10px;
+padding: 10px;
+border-radius: 20px;
+}
+main h1 {
+    color : #98FB98;
+    text-align: center;
+    }
+footer {
+    background-color: hsl(120, 93%, 84%); }
+    footer p {
+        background-color: aliceblue; }
+    .icons {
+        width:40px;
+        height:40px;
+    }
